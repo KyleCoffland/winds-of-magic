@@ -20,3 +20,59 @@ body {
     text-shadow: 2px 2px gray;
     padding: 50px 100px 50px 750px;
 }
+
+.spelllist {
+    list-style:none;
+}
+
+.smalltitle {
+    color:white;
+    text-shadow: 2px 2px gray;
+    padding-bottom: 10px;
+}
+
+.medtitle {
+    color:white;
+    text-shadow: 2px 2px gray;
+    padding-bottom: 5px;
+}
+
+.ghur {
+    color:white;
+    text-shadow: 3px 3px brown;
+}
+
+.shyish {
+    color: white;
+    text-shadow: 3px 3px purple;
+}
+
+.aqshy {
+    color: white;
+    text-shadow: 2px 2px red;
+}
+
+.azyr {
+    color: white;
+    text-shadow: 2px 2px blue;
+}
+
+.ghyran {
+    color: white;
+    text-shadow: 2px 2px green;
+}
+
+.hysh {
+    color:white;
+    text-shadow: 1px 1px white;
+}
+
+.chamon {
+    color: white;
+    text-shadow: 1px 1px gold;
+}
+
+.ulgu {
+    color: white;
+    text-shadow: 3px 3px slategray;
+}
