@@ -5,3 +5,18 @@
     scroll-behavior: smooth;
 }
 
+body {
+    background-color: black;
+}
+
+.container {
+    color:white;
+    background-color:black;
+    padding: 25px 50px 25px 50px;
+}
+
+.title {
+    color:white;
+    text-shadow: 2px 2px gray;
+    padding: 50px 100px 50px 750px;
+}
