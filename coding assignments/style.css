@@ -76,3 +76,15 @@ body {
     color: white;
     text-shadow: 3px 3px slategray;
 }
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color:aqua;
+}
